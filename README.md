@@ -1,3 +1,8 @@
+# React - redux - bootstrap two way data binding example for beginners.
+
+Demonstrates how to data bind a dropdown and a form control to the same variable. (If you select an item from the dropdown list the form control gets updated, if you type something valid (id: `0,1,2`) the dropdown's selected item gets updated.)
+
+# Original ReadMe from Create React App:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
